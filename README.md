@@ -1,4 +1,4 @@
-# Multi-Linear-Regression-Q2
+# Multi-Linear-Regression-Q2-50_startups
 Prepare a prediction model for profit of 50_startups data. Do transformations for getting better predictions of profit and make a table containing R^2 value for each prepared model.
 R&D Spend -- Research and devolop spend in the past few years
 Administration -- spend on administration in the past few years
